@@ -36,6 +36,8 @@
 # Set explicit file behavior to:
 #   treat as binary
 ###############################################################################
+*.blend     binary
 *.png       binary
-*.wav       binary
+*.psd       binary
 *.snk       binary
+*.wav       binary
