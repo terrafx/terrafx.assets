@@ -41,3 +41,4 @@
 *.psd       binary
 *.snk       binary
 *.wav       binary
+*.obj       binary
